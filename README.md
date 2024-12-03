@@ -1,4 +1,4 @@
-# Binance_Quant_Strategy
+# Quantitative Strategy Based on Binance
 
 Here are some strategies backtested. 
 
